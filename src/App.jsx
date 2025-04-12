@@ -1,11 +1,12 @@
 import React from 'react'
+import Page from './components/page'
 
-const git = () => {
+const App = () => {
   return (
     <div>
-      
+      <Page/>
     </div>
   )
 }
 
-export default 
+export default App
