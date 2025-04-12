@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>
+    <div style={{backgroundColor:"yellowgreen", textcolor:"white"}}>
       hllo
     </div>
   )

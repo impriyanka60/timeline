@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Page from './components/Page';
 
-const git = () => {
+const App = () => {
   return (
     <div>
-      HELLO
+      <Page/>HELLO
     </div>
   )
 }
 
-export default git;  {/* Correct export statement */}
+export default git ; 
