@@ -1,11 +1,11 @@
 import React from 'react'
 
-const git = () => {
+const Page = () => {
   return (
     <div>
-      
+      hllo
     </div>
   )
 }
 
-export default 
+export default Page
